@@ -1,0 +1,68 @@
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.dll
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.xml
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.Drawing.xml
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.dll
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.xml
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.Drawing.xml
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Shandy\Downloads\General\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.dll
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.xml
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.Drawing.xml
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\asus\Desktop\Stima\Tubes 2\Form\Form2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.dll
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.xml
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.Drawing.xml
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Shandy\Downloads\General\abisdebug\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

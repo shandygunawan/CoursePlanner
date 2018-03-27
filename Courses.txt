@@ -1,0 +1,5 @@
+DasProg, PTI.
+StiMa, DasProg, AlStrukDat.
+PTI.
+AlStrukDat, DasProg, PTI.
+Kripto, StiMa, AlStrukDat.
